@@ -13,7 +13,7 @@
 
 | 分類                      | 集數  | 標題                                                                | 網址                                 | 狀態  | 更新日期       |
 | ----------------------- | --- | ----------------------------------------------------------------- | ---------------------------------- | --- | ---------- |
-| Adaptive QoE            | 1/2 | How to Set Up Adaptive QoE - Web UI                               | [連結](https://youtu.be/AZTWacL-3rk) | 🔴  | 2026-07-30 |
+| Adaptive QoE            | 1/2 | How to Set Up Adaptive QoE - Web UI                               | [連結](https://youtu.be/AZTWacL-3rk) | ✅  | 2026-07-30 |
 | Adaptive QoE            | 2/2 | How to Set Up Bandwidth Limitation - Web UI                       | [連結](https://youtu.be/5femDRd1-Qo) | 🔴  | 2026-07-30 |
 | Smart Network (Web UI)  | 1/3 | How to Set Up Kids Network - Web UI                               | [連結](https://youtu.be/n5W_8Xd8PyA) | 🔴  | 2026-07-30 |
 | Smart Network (Web UI)  | 2/3 | How to Set Up IoT Network - Web UI                                | [連結](https://youtu.be/iYySAtf8Up4) | 🔴  | 2026-07-30 |
