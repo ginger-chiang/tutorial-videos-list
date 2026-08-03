@@ -25,5 +25,5 @@ https://www.youtube.com/@ASUSWRTNW/videos
 | Guest Network Pro (APP) | 1/5 | How to Set Up Guest Network - APP                                 | [連結](https://youtu.be/KNQX0HvwVkA) | ✅  | 2026-07-30 |
 | Guest Network Pro (APP) | 2/5 | How to Setup Guest Portal - APP                                   | [連結](https://youtu.be/G4mVJbHWGDk) | ✅  | 2026-07-30 |
 | Parental Control        | 1/1 | Parental Control - Four Layers of Protection for Your Kids Online | [連結](https://youtu.be/wcPlLPmj35Y) | ✅  | 2026-07-30 |
-| Energy Saving           | 1/1 | How to Setup Energy Saving - APP                                  | [連結](https://youtu.be/chInaIpTcF0) | 🔴  | 2026-07-31 |
+| Energy Saving           | 1/1 | How to Setup Energy Saving - APP                                  | [連結](https://youtu.be/chInaIpTcF0) | ✅  | 2026-07-31 |
 
