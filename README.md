@@ -26,4 +26,6 @@ https://www.youtube.com/@ASUSWRTNW/videos
 | Guest Network Pro (APP) | 2/5 | How to Setup Guest Portal - APP                                   | [連結](https://youtu.be/G4mVJbHWGDk) | ✅  | 2026-07-30 |
 | Parental Control        | 1/1 | Parental Control - Four Layers of Protection for Your Kids Online | [連結](https://youtu.be/wcPlLPmj35Y) | ✅  | 2026-07-30 |
 | Energy Saving           | 1/1 | How to Setup Energy Saving - APP                                  | [連結](https://youtu.be/chInaIpTcF0) | ✅  | 2026-07-31 |
-
+| AiProtection            | 1/2 | How to Monitor Security Events with AiProtection - Web UI         | [連結](https://youtu.be/1AJvbn13SSg) | 🔴  | 2026-08-19 |
+| AiProtection            | 2/2 | How to Whitelist a Site in ASUS Router AiProtection - Web UI      | [連結](https://youtu.be/ujuA40PquMY) | 🔴  | 2026-08-19 |
+| Parental Controls       | 1/x | Get Started with Parental Controls - APP                          | [連結](https://youtu.be/ZpRPDMAM2Tw) | 🔴  | 2026-08-19 | 
