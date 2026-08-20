@@ -28,4 +28,6 @@ https://www.youtube.com/@ASUSWRTNW/videos
 | Energy Saving           | 1/1 | How to Setup Energy Saving - APP                                  | [連結](https://youtu.be/chInaIpTcF0) | ✅  | 2026-07-31 |
 | AiProtection            | 1/2 | How to Monitor Security Events with AiProtection - Web UI         | [連結](https://youtu.be/1AJvbn13SSg) | 🔴  | 2026-08-19 |
 | AiProtection            | 2/2 | How to Whitelist a Site in ASUS Router AiProtection - Web UI      | [連結](https://youtu.be/ujuA40PquMY) | 🔴  | 2026-08-19 |
-| Parental Controls       | 1/x | Get Started with Parental Controls - APP                          | [連結](https://youtu.be/ZpRPDMAM2Tw) | 🔴  | 2026-08-19 | 
+| Parental Controls       | 1/2 | Get Started with Parental Controls - APP                          | [連結](https://youtu.be/ZpRPDMAM2Tw) | 🔴  | 2026-08-19 | 
+| Parental Controls       | 2/2 | How to set up One Tap Safe Browsing (Parental Controls) - APP     | [連結](https://youtu.be/lCWnISn1los) | 🔴  | 2026-08-20 | 
+| Guest Network Pro (APP) | 3/5 | How to Set Up Kid's Network (Guest Network Pro) - App             | [連結](https://youtu.be/TWlYRL6pu_I) | 🔴  | 2026-08-20 | 
