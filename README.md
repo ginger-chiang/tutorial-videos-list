@@ -4,8 +4,7 @@ https://www.youtube.com/@ASUSWRTNW/videos
 > 狀態說明： 🔴 New，尚未同步到 landing page ｜ ✅ 已確認上線 
 
 ## 更新 
-V1-(2026-07-31)
-
+V1-(2026-07-31) <br>
 V2-(2026-08-20)
 ---
 
