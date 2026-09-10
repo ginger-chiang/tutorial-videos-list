@@ -34,5 +34,5 @@ V2-(2026-08-20)
 | Parental Controls       | 1/2 | Get Started with Parental Controls - APP                          | [連結](https://youtu.be/ZpRPDMAM2Tw) | ✅  | 2026-08-19 | 
 | Parental Controls       | 2/2 | How to set up One Tap Safe Browsing (Parental Controls) - APP     | [連結](https://youtu.be/lCWnISn1los) | ✅  | 2026-08-20 | 
 | Guest Network Pro (APP) | 3/5 | How to Set Up Kid's Network (Guest Network Pro) - App             | [連結](https://youtu.be/TWlYRL6pu_I) | ✅  | 2026-08-20 | 
-| Guest Network Pro (APP) | 4/5 | How to Set Up VPN Network (Guest Network Pro) - App               | [連結](https://youtu.be/WmEknGRJtZQ) | ✅  | 2026-09-10 | 
-| Guest Network Pro (APP) | 5/5 | How to Set Up Iot Network (Guest Network Pro) - App               | [連結](https://youtu.be/N-PCKLQTGng) | ✅  | 2026-09-10 | 
+| Guest Network Pro (APP) | 4/5 | How to Set Up VPN Network (Guest Network Pro) - App               | [連結](https://youtu.be/WmEknGRJtZQ) | 🔴 | 2026-09-10 | 
+| Guest Network Pro (APP) | 5/5 | How to Set Up Iot Network (Guest Network Pro) - App               | [連結](https://youtu.be/N-PCKLQTGng) | 🔴  | 2026-09-10 | 
