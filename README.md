@@ -5,7 +5,7 @@ https://www.youtube.com/@ASUSWRTNW/videos
 
 ## 更新日期
 
-V1-(2026-07-31) <br>
+V1-(2026-07-31)這一批已經給過客服 <br>
 V2-(2026-08-20)
 
 ---
